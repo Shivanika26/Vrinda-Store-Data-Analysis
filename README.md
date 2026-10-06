@@ -1,6 +1,7 @@
 # Vrinda Store Data Analysis & Dashboard (2022)
 
-
+## 📊 Dashboard Preview
+![Vrinda Store Dashboard](dashboard.png)
 
 ## 📌 Overview
 Yeh project Vrinda Store ke 2022 sales data ka Excel/Power BI dashboard hai. Isse sales trends, top states, gender distribution, aur channels ka analysis milta hai.
